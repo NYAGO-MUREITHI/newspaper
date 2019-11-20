@@ -2,15 +2,15 @@
 This is a newspaper article written in loren ipsum to showcase the different css styles learnt and implementation of classes
 ## AUTHOR
 NYAGUTHIE MUREITHI
-##DESCRIPTION
+## DESCRIPTION
 This is a newspaper article written in loren ipsum to showcase the different css styles learnt and implementation of classes
-#KNOWN-BUGS
+## KNOWN-BUGS
 No known bugs have been identified as of yet while running the webpage on Chrome. However if any identified kindly feel free to contact us on details shown below
 ### TECHNOLOGIES USED
 This webpage article was created using basic html language and css and edited on Atom.
-#SUPPORT AND CONTACT DETAILS
+## SUPPORT AND CONTACT DETAILS
 For any queries or feedback kindly contact the author on 07986543234 or email at mjking@gmail.com
-#LICENSES
+## LICENSES
 MIT License
 
 Copyright (c) [2019] [NYAGUTHIE MUREITHI]
