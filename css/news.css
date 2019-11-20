@@ -1,0 +1,17 @@
+h1 {
+    font-style: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+h2.introduction{
+                color: brown;
+                text-align: center;
+
+}
+img.introduction {
+                   image-orientation: center;
+}
+p.introduction {
+                font-style: italic;
+                text-align: center;
+}
